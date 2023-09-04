@@ -1,0 +1,26 @@
+.board{
+    height: 350px;
+    width: 350px;
+    border: 10px solid brown;
+    margin: auto;
+    margin-top: 40px;
+    border-collapse: collapse;
+}
+.title{
+    width: 180px;
+    margin: auto;
+    text-align: center;
+    position: relative;
+    border: 2px brown;
+    background: sandybrown;
+    margin-left: 170px;
+    margin-top: 50px;
+}
+.bb1{
+    height: 32px;
+    width: 32px;
+    background: black;
+}
+.r1{
+    align-items: center;
+}
